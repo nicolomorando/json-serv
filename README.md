@@ -1,2 +1,2 @@
-# Use your own data
-Fork it and change db.json values or create a repo with a db.json file.
+# Json online manager
+Used to relate a json-placeholder server
